@@ -9,5 +9,5 @@ int main() {
 	cout<<"Inputkan nilai Bahasa Inggris ";
 	cin>>nilaiBing; 
 	
-	return 0;
+                     	return 0;
 }
