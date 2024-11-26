@@ -13,6 +13,7 @@ void n();
 
 int main() {
 	input();
+	cout<<endl;
 	cout<<"Sebelum Di urutkan";
 	n();
 	cetak_array();
